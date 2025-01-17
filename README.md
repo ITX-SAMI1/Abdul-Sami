@@ -1,6 +1,8 @@
-<h1 align="center">Hi :wave:, I'm <a href="https://rizwanjamal.online" target="blank">
-Rizwan Jamal</a></h1>
-<h3 align="center">A Passionate Software Engineer with the experience of 8+ years from Pakistan 🇵🇰 </h3>
+<h1 align="center">Hi :wave:, I'm <a href="https://Abdul Sami.online" target="blank">
+Abdul Sami</a></h1>
+<!-- <h3 align="center">A Passionate Software Engineer with the experience of 8+ years from Pakistan 🇵🇰 </h3> -->
+ <h3 align="center">I am a Fullstack Web Developer  </h3> 
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 <a target="_blank" align="center">
 <!--   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"> -->
@@ -21,7 +23,7 @@ Rizwan Jamal</a></h1>
   
 - 📄 Hire me on <a href="https://www.upwork.com/freelancers/~01d10c23d4ffe3c658" target="blank">Upwork</a>
 
-- 📫 How to reach me **Rizwanmjamal@gmail.com**
+- 📫 How to reach me **Abdulrazzaqs231@gmail.com**
 
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Connect with me 🤝 </h3>
